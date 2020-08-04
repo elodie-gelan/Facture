@@ -1,2 +1,2 @@
 # Projet 1
-Création d'une facture (sommes générées aléatoirement)
+Création d'une facture en HTML/CSS et PHP (sommes générées aléatoirement)
